@@ -1,21 +1,24 @@
 *{
     margin: 0;
+    align:center;
 }
 .upper{
-    display: inline;
+    align: center;
+    display: inline-flex;
     background-color: lavender;
     padding-left: 40px;
     padding-top: 40px;
     padding-right: 40px;
     padding-bottom: 40px;
     height: fit-content;
-    width: fit-content;
+    
 }
 
 .Freeeze{
     font-size: 40px;
 }
 .info{
+    /* align:center; */
     display: inline-block;
     padding: 40px;
 }
