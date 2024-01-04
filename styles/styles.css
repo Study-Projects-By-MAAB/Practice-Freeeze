@@ -2,19 +2,21 @@
     margin: 0;
     align:center;
 }
-.upper{
+#header {
     align: center;
     display: inline-flex;
-    background-color: lavender;
-    padding-left: 40px;
-    padding-top: 40px;
-    padding-right: 40px;
-    padding-bottom: 40px;
+    margin: 0 35px;
+    background-color: rgb(238, 235, 236);
+    padding-top: 41px;
+    padding-bottom: 27px;
+    padding-left: 10px;
+    padding-right: 10px;
     height: fit-content;
+    position: relative;
     
 }
 
-.Freeeze{
+.icon{
     font-size: 40px;
 }
 .info{
