@@ -1,9 +1,7 @@
 *{
     margin: 0;
-    align:center;
 }
 #header {
-    align: center;
     display: inline-flex;
     margin: 0 35px;
     background-color: rgb(238, 235, 236);
